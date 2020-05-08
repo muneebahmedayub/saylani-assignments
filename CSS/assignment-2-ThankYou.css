@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    margin-top: 400px;
+}
+#a{
+   font-size: 110px;
+   text-align: center;
+   color: green;
+}
+#b{
+    text-align: center;
+    color: purple;
+    font-size: 92px;
+}
+#c{
+    text-align: center;
+    color: purple;
+    font-size: 100px;
+}

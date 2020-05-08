@@ -1,0 +1,44 @@
+*{
+    font-size: 15px;
+}
+.main{
+    display: flex;
+}
+.bg-theme-color{
+    background-color:#316DC3 !important;
+}
+}
+header{
+    padding: 10px;
+
+}
+.header{
+    margin-left: 40px;
+}
+p{
+    color: white;
+}
+img{
+    display: inline-block;
+}
+.header-btn{
+    display: inline-block;
+    border: 1px solid green;
+    background-color: white;
+    color: black;
+}
+.nav-pills{
+    border-radius: 50px !important;
+}
+}
+.heading{
+    display: inline-block;
+}
+.btn{
+    size: 50px;
+    color: #006618 !important;
+    border: 1px solid #006618 !important;
+}
+.footer-color{
+    color: gray;
+}
