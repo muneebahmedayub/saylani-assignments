@@ -1,0 +1,45 @@
+.box-theme-color{
+    box-shadow: 0px 4px #B71C1C;
+}
+.bg-theme-color{
+    background-color: #C62828;
+}
+.text-theme-color{
+    color: #C62828;
+}
+.nav-link{
+    color: white !important;
+    transition: 0.4s ease;
+    margin: 0px 5px;
+}
+.nav-link:hover{
+    background-color: white;
+    color: #C62828 !important;
+}
+.active>a{
+    background-color: white;
+    color: #C62828 !important;
+}
+.heading>h1{
+    color: #C62828;
+    text-align: center;
+    font-size: 65px;
+    font-weight: bold;
+    margin: 0px 25px;
+}
+.heading>.line{
+    width: 200px;
+    height: 5px;
+    margin: 0px auto;
+    background-color:  #C62828;
+}
+.col-md{
+    color: white;
+    margin: 50px 40px;
+    text-align: center;
+    padding: 40px;
+    box-shadow: 5px 5px 10px #B71C1C;
+}
+.col-md i{
+    font-size: 40px;
+}
